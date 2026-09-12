@@ -117,7 +117,7 @@ Inside this portfolio:
 
 <div align="center">
 
-### 🔐 Secure by design. Built for the cloud.
+### Secure by design. Built for the cloud.
 
 </div>
 </div>
