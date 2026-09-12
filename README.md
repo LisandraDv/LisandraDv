@@ -9,9 +9,11 @@
 Building secure, scalable and resilient cloud environments.
 
 <br>
+---
 
-## 🛠️ My Stack
-
+<p align="left">
+  <img src="./assets/mystacks.png" alt="My Stack" width="320">
+</p>
 ### ☁️ Cloud & Identity
 
 ![Microsoft Azure](https://img.shields.io/badge/MICROSOFT_AZURE-1F6FEB?style=for-the-badge&logo=microsoftazure&logoColor=white)
