@@ -63,17 +63,19 @@ Building secure, scalable and resilient cloud environments.
   <img align="right" src="./assets/letscone.gif" alt="Let's connect" width="320">
 </a>
 
-Cloud and Cybersecurity Engineer focused on **Microsoft cloud technologies, infrastructure security, identity, endpoint protection, and security operations**.
+Cloud and Cybersecurity Engineer with a strong specialization in **Microsoft cloud and security technologies**, complemented by hands-on experience across **hybrid infrastructure, virtualization, identity security, security monitoring, network protection, DevSecOps, automation, and resilience**.
 
-- Design and manage secure Microsoft Azure environments
-- Identity & Access Management with Microsoft Entra ID
-- Security operations with Microsoft Defender and Sentinel
-- Endpoint security and management with Microsoft Intune
-- Cloud infrastructure, governance, hardening and monitoring
-- Automation with PowerShell and Infrastructure as Code
-- Security assessments and Zero Trust implementation
+- Design, secure, and manage Microsoft Azure and hybrid cloud environments
+- Identity & Access Management with Microsoft Entra ID, MFA, Conditional Access, RBAC, PIM, Zero Trust, and PAM
+- Security operations with Microsoft Defender, Sentinel, Elastic, Splunk, and security monitoring platforms
+- Endpoint security and management with Microsoft Intune, Defender for Endpoint, BitLocker, LAPS, ASR, and EDR
+- Infrastructure and virtualization with Windows Server, VMware, Nutanix, Citrix, and hybrid environments
+- Network and web security using WAF technologies, Cloudflare, Reblaze, Fortinet, and Cisco security solutions
+- Automation and Infrastructure as Code with PowerShell, Bicep, Terraform, Bash, and Python
+- DevSecOps and application security practices including SAST, DAST, SCA, secret detection, and CI/CD security
+- Security assessments, cloud hardening, governance, monitoring, backup, disaster recovery, and resilience
 
-### 💌 Let’s Connect
+### Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lisandra_Duvernay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisandra-duvernay-a4b738261/)
 <br clear="right">
@@ -92,11 +94,11 @@ My cybersecurity portfolio focused on **Cloud Security, DevSecOps, Application S
 
 Inside this portfolio:
 
-- 🔎 Secure Code, SAST, SCA & Secret Detection
-- 🏗️ Infrastructure as Code Security & Policy as Code
-- ☸️ Container & Kubernetes Security
-- 🛡️ DAST & Continuous Security Monitoring
-- ☁️ Azure & Microsoft 365 Security Hardening
+- Secure Code, SAST, SCA & Secret Detection
+- Infrastructure as Code Security & Policy as Code
+- Container & Kubernetes Security
+- DAST & Continuous Security Monitoring
+- Azure & Microsoft 365 Security Hardening
 
 [Explore the Full Portfolio →](https://github.com/LisandraDv/lsdr-security-portfolio)
 
