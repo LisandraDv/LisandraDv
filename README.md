@@ -57,10 +57,8 @@ Building secure, scalable and resilient cloud environments.
 
 ---
 
-## 👩‍💻 About Me
-
 <p align="left">
-  <img src="./assets/aboume.png" alt="About Me" width="300">
+  <img src="./assets/aboutme.png" alt="About Me" width="300">
 </p>
 
 <a href="https://www.linkedin.com/in/lisandra-duvernay-a4b738261/">
