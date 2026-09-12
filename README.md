@@ -129,9 +129,9 @@ designed for continuous security operations.
 
 ## 🤝 Let's Connect
 
-Interested in **Cloud Security, Azure Infrastructure, IAM, Microsoft Security or collaboration opportunities?**
+Interested in **Cloud Security, Azure Infrastructure, IAM, Microsoft Security, or collaboration opportunities?**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lisandra_Duvernay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lisandra_Duvernay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisandra-duvernay-a4b738261/)
 
 ---
 
@@ -139,4 +139,5 @@ Interested in **Cloud Security, Azure Infrastructure, IAM, Microsoft Security or
 
 ### 🔐 Secure by design. Built for the cloud.
 
+</div>
 </div>
