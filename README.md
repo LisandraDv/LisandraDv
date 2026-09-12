@@ -76,9 +76,6 @@ Cloud and Cybersecurity Engineer focused on **Microsoft cloud technologies, infr
 ### 💌 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lisandra_Duvernay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisandra-duvernay-a4b738261/)
-[![GitHub](https://img.shields.io/badge/GitHub-LisandraDv-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LisandraDv)
-[![Portfolio](https://img.shields.io/badge/Portfolio-LSDR_Security_Lab-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LisandraDv/lsdr-security-portfolio)
-
 <br clear="right">
 
 ---
