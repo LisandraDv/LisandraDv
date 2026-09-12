@@ -1,7 +1,6 @@
-<div align="center">
-
-<h1 align="center">Hello! I'm Lisandra</h1>
-<h3 align="center">I'm a cyber girl :)</h3>
+<p align="center">
+  <img src="./assets/header.png" alt="Hello I'm Lisandra" width="100%">
+</p>
 
 ### ☁️ Cloud & Cybersecurity Engineer
 
