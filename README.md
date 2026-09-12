@@ -81,7 +81,6 @@ Cloud and Cybersecurity Engineer specialized in **Microsoft Cloud & Security**, 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lisandra_Duvernay-30363D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisandra-duvernay-a4b738261/)
 
-<br clear="right">
 
 <p align="left">
   <img src="./assets/projects.png" alt="Featured Projects" width="420">
