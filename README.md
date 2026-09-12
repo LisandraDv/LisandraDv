@@ -110,7 +110,7 @@ Inside this portfolio:
 <hr>
 
 <p align="left">
-  <img src="./assets/certifications.png" alt="Featured Projects" width="420">
+  <img src="./assets/certifications.png" alt="Featured Projects" width="500">
 </p>
 
 - Microsoft Certified: Azure Fundamentals — **AZ-900**
