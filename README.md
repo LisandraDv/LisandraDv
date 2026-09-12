@@ -108,7 +108,6 @@ Inside this portfolio:
 <br clear="right">
 
 <hr>
----
 
 <p align="left">
   <img src="./assets/certifications.png" 
