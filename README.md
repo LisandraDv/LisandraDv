@@ -83,7 +83,9 @@ Cloud and Cybersecurity Engineer specialized in **Microsoft Cloud & Security**, 
 
 <br clear="right">
 
-## 🚀 Featured Projects
+<p align="left">
+  <img src="./assets/projects.png" alt="Featured Projects" width="420">
+</p>
 
 ### [LSDR Security Portfolio](https://github.com/LisandraDv/lsdr-security-portfolio)
 
