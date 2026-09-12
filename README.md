@@ -108,18 +108,24 @@ Inside this portfolio:
 <br clear="right">
 
 <hr>
+---
+
 <p align="left">
-  <img src="./assets/certifications.png" alt="Certifications & Continuous Learning" width="700">
+  <img src="./assets/certifications.png" 
+       alt="Certifications & Continuous Learning" 
+       width="650">
 </p>
+
 - Microsoft Certified: Azure Fundamentals — **AZ-900**
 - Microsoft Security, Compliance, and Identity Fundamentals — **SC-900**
 - Fortinet Cybersecurity Certifications
 - Cybersecurity technical training and international bootcamps
 - Continuous learning in Azure, Cloud Security, IAM and Microsoft Security
 
+<br>
+
 <div align="center">
-
-### Secure by design. Built for the cloud.
-
+  <b>Secure by design. Built for the cloud.</b>
 </div>
+
 </div>
