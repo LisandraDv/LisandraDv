@@ -9,6 +9,10 @@
 Building secure, scalable and resilient cloud environments.
 
 <br>
+<p align="center">
+  <img src="https://ghchart.rshah.org/ff3b9d/LisandraDv" alt="Lisandra's GitHub Contributions" width="100%">
+</p>
+
 <hr>
 
 <p align="left">
@@ -58,9 +62,7 @@ Building secure, scalable and resilient cloud environments.
 </div>
 <hr>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/ff3b9d/LisandraDv" alt="Lisandra's GitHub Contributions" width="100%">
-</p>
+
 
 <p align="left">
   <img src="./assets/aboutme.png" alt="About Me" width="300">
