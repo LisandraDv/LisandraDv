@@ -55,6 +55,7 @@ Building secure, scalable and resilient cloud environments.
 ![CI/CD Security](https://img.shields.io/badge/CI%2FCD_SECURITY-30363D?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
+<hr>
 
 <p align="left">
   <img src="./assets/aboutme.png" alt="About Me" width="300">
