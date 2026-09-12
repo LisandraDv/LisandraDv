@@ -65,13 +65,13 @@ Building secure, scalable and resilient cloud environments.
 
 Cloud and Cybersecurity Engineer focused on **Microsoft cloud technologies, infrastructure security, identity, endpoint protection, and security operations**.
 
-- ☁️ Design and manage secure Microsoft Azure environments
-- 🔐 Identity & Access Management with Microsoft Entra ID
-- 🛡️ Security operations with Microsoft Defender and Sentinel
-- 💻 Endpoint security and management with Microsoft Intune
-- 🏗️ Cloud infrastructure, governance, hardening and monitoring
-- ⚙️ Automation with PowerShell and Infrastructure as Code
-- 🔎 Security assessments and Zero Trust implementation
+- Design and manage secure Microsoft Azure environments
+- Identity & Access Management with Microsoft Entra ID
+- Security operations with Microsoft Defender and Sentinel
+- Endpoint security and management with Microsoft Intune
+- Cloud infrastructure, governance, hardening and monitoring
+- Automation with PowerShell and Infrastructure as Code
+- Security assessments and Zero Trust implementation
 
 ### 💌 Let’s Connect
 
@@ -85,7 +85,7 @@ Cloud and Cybersecurity Engineer focused on **Microsoft cloud technologies, infr
 
 ## 🚀 Featured Projects
 
-### 🔐 [LSDR Security Portfolio](https://github.com/LisandraDv/lsdr-security-portfolio)
+### [LSDR Security Portfolio](https://github.com/LisandraDv/lsdr-security-portfolio)
 
 <a href="https://github.com/LisandraDv/lsdr-security-portfolio">
   <img align="right" src="./assets/go.gif" alt="Explore LSDR Security Portfolio" width="330">
@@ -112,14 +112,6 @@ Inside this portfolio:
 - Fortinet Cybersecurity Certifications
 - Cybersecurity technical training and international bootcamps
 - Continuous learning in Azure, Cloud Security, IAM and Microsoft Security
-
----
-
-## 🤝 Let's Connect
-
-Interested in **Cloud Security, Azure Infrastructure, IAM, Microsoft Security, or collaboration opportunities?**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lisandra_Duvernay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisandra-duvernay-a4b738261/)
 
 ---
 
