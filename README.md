@@ -59,11 +59,15 @@ Building secure, scalable and resilient cloud environments.
 
 ## 👩‍💻 About Me
 
+<p align="left">
+  <img src="./assets/aboume.png" alt="About Me" width="300">
+</p>
+
 <a href="https://www.linkedin.com/in/lisandra-duvernay-a4b738261/">
   <img align="right" src="./assets/letscone.gif" alt="Let's connect" width="320">
 </a>
 
-Cloud and Cybersecurity Engineer with a strong specialization in **Microsoft cloud and security technologies**, complemented by hands-on experience across **hybrid infrastructure, virtualization, identity security, security monitoring, network protection, DevSecOps, automation, and resilience**.
+Cloud and Cybersecurity Engineer specialized in **Microsoft Cloud & Security**, with hands-on experience across **Azure, AWS, hybrid infrastructure, IAM, virtualization, security operations, endpoint security, DevSecOps, network protection, automation, and resilience**.
 
 - Design, secure, and manage Microsoft Azure and hybrid cloud environments
 - Identity & Access Management with Microsoft Entra ID, MFA, Conditional Access, RBAC, PIM, Zero Trust, and PAM
@@ -75,11 +79,13 @@ Cloud and Cybersecurity Engineer with a strong specialization in **Microsoft clo
 - DevSecOps and application security practices including SAST, DAST, SCA, secret detection, and CI/CD security
 - Security assessments, cloud hardening, governance, monitoring, backup, disaster recovery, and resilience
 
-### Let’s Connect
+### ✨ Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lisandra_Duvernay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisandra-duvernay-a4b738261/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lisandra_Duvernay-30363D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisandra-duvernay-a4b738261/)
+[![GitHub](https://img.shields.io/badge/GitHub-LisandraDv-30363D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LisandraDv)
+[![Portfolio](https://img.shields.io/badge/Portfolio-LSDR_Security_Lab-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LisandraDv/lsdr-security-portfolio)
+
 <br clear="right">
-
 ---
 
 ## 🚀 Featured Projects
