@@ -71,30 +71,6 @@ Cloud and Cybersecurity Engineer focused on **Microsoft cloud technologies, infr
 
 ---
 
-## 🛠️ Tech Stack
-
-### ☁️ Cloud & Infrastructure
-
-`Azure` `Microsoft 365` `Windows Server` `VMware` `Nutanix`
-
-### 🔐 Identity & Security
-
-`Entra ID` `Conditional Access` `MFA` `PIM` `RBAC` `Zero Trust`
-
-### 🛡️ Security Operations
-
-`Microsoft Defender` `Microsoft Sentinel` `Defender for Cloud` `KQL`
-
-### 💻 Endpoint Security
-
-`Microsoft Intune` `Defender for Endpoint` `BitLocker` `LAPS` `ASR`
-
-### ⚙️ Automation & IaC
-
-`PowerShell` `Bicep` `Terraform` `GitHub`
-
----
-
 ## 🚀 Featured Projects
 
 ### 🔐 LSDR Security Lab
