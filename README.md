@@ -73,62 +73,19 @@ Cloud and Cybersecurity Engineer focused on **Microsoft cloud technologies, infr
 
 ## 🚀 Featured Projects
 
-### 🔐 LSDR Security Lab
+### 🔐 [LSDR Security Portfolio](https://github.com/LisandraDv/lsdr-security-portfolio)
 
-Hands-on cybersecurity portfolio covering Cloud Security, DevSecOps,
-secure infrastructure, hardening, detection and remediation.
+Hands-on cybersecurity portfolio focused on **Cloud Security, DevSecOps, Application Security, Infrastructure Security, and Microsoft Cloud Security**.
 
-[**Explore the Security Portfolio →**](https://github.com/LisandraDv/lsdr-security-portfolio)
+Inside this portfolio:
 
----
+- 🔎 Secure Code, SAST, SCA & Secret Detection
+- 🏗️ Infrastructure as Code Security & Policy as Code
+- ☸️ Container & Kubernetes Security
+- 🛡️ DAST & Continuous Security Monitoring
+- ☁️ Azure & Microsoft 365 Security Hardening
 
-### ☁️ Azure & Microsoft 365 Security Hardening
-
-Cloud security assessment and hardening practices for Microsoft Azure
-and Microsoft 365 environments.
-
-[**View Project →**](https://github.com/LisandraDv/lsdr-security-portfolio/tree/main/05-cloud-security-hardening-azure-m365)
-
----
-
-### 🏗️ Infrastructure as Code Security
-
-Security controls, validation and Policy as Code practices for
-Infrastructure as Code deployments.
-
-[**View Project →**](https://github.com/LisandraDv/lsdr-security-portfolio/tree/main/02-iac-security-policy-as-code)
-
----
-
-### 🔎 Secure Code, SAST, SCA & Secret Detection
-
-Security testing practices focused on vulnerable dependencies,
-insecure code patterns and exposed secrets.
-
-[**View Project →**](https://github.com/LisandraDv/lsdr-security-portfolio/tree/main/01-secure-code-sca-sast-secret-detection)
-
----
-
-### 🛡️ Continuous Security Monitoring
-
-Security monitoring, application testing and detection practices
-designed for continuous security operations.
-
-[**View Project →**](https://github.com/LisandraDv/lsdr-security-portfolio/tree/main/04-dast-continuous-security-monitoring)
-
----
-
-## 💼 Areas of Expertise
-
-| ☁️ Azure Infrastructure | 🔐 Identity & Access Management |
-|---|---|
-| Architecture, networking, governance and cloud infrastructure | Entra ID, MFA, Conditional Access, RBAC, PIM and Zero Trust |
-
-| 🛡️ Microsoft Cloud Security | 💻 Endpoint Security |
-|---|---|
-| Defender, Sentinel, cloud security and monitoring | Intune, Defender for Endpoint, LAPS, BitLocker and ASR |
-
----
+[Explore the Full Portfolio →](https://github.com/LisandraDv/lsdr-security-portfolio)
 
 ## 📚 Certifications & Continuous Learning
 
