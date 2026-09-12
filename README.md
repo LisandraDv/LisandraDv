@@ -75,7 +75,7 @@ Cloud and Cybersecurity Engineer focused on **Microsoft cloud technologies, infr
 
 ### 🔐 [LSDR Security Portfolio](https://github.com/LisandraDv/lsdr-security-portfolio)
 
-Hands-on cybersecurity portfolio focused on **Cloud Security, DevSecOps, Application Security, Infrastructure Security, and Microsoft Cloud Security**.
+My cybersecurity portfolio focused on **Cloud Security, DevSecOps, Application Security, Infrastructure Security, and Microsoft Cloud Security**.
 
 Inside this portfolio:
 
