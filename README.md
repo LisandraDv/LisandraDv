@@ -111,7 +111,6 @@ Inside this portfolio:
 <p align="left">
   <img src="./assets/certifications.png" alt="Certifications & Continuous Learning" width="700">
 </p>
-
 - Microsoft Certified: Azure Fundamentals — **AZ-900**
 - Microsoft Security, Compliance, and Identity Fundamentals — **SC-900**
 - Fortinet Cybersecurity Certifications
