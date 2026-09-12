@@ -9,6 +9,7 @@
 Building secure, scalable and resilient cloud environments.
 
 <br>
+<hr>
 
 <p align="left">
   <img src="./assets/mystacks.png" alt="My Stack" width="320">
