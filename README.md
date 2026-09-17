@@ -109,7 +109,7 @@ Inside this portfolio:
 - DAST & Continuous Security Monitoring
 - Azure & Microsoft 365 Security Hardening
 
-[Explore the Full Portfolio →]([https://github.com/LisandraDv/lsdr-security-portfolio](https://lisandradv.github.io/lsdr-security-portfolio/))
+[Explore the Full Portfolio →](https://lisandradv.github.io/lsdr-security-portfolio/)
 
 <br clear="right">
 
